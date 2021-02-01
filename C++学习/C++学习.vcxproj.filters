@@ -84,6 +84,12 @@
     <ClCompile Include="1.2.8命名空间namespace.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.3.1C与C++结构体区别.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.3.2new和delete.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表.c】">

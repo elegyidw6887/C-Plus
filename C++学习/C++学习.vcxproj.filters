@@ -99,6 +99,9 @@
     <ClCompile Include="1.4.2其他类型的引用.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.4.3引用做参数.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表.c】">

@@ -81,6 +81,9 @@
     <ClCompile Include="1.2.7输入cin.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.2.8命名空间namespace.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表.c】">

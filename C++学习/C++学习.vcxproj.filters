@@ -75,6 +75,9 @@
     <ClCompile Include="1.2.5输出cout.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.2.6输出换行endl.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表.c】">

@@ -172,7 +172,7 @@
     <ClCompile Include="2.15.0-【模板】.c" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="1.7.0-【构建函数与初始化列表.c】" />
+    <None Include="1.7.0-【构建函数与初始化列表】.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

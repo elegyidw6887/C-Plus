@@ -132,6 +132,9 @@
     <ClCompile Include="1.6.3访问修饰符protected.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.6.4友元.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

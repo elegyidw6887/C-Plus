@@ -170,6 +170,7 @@
     <ClCompile Include="1.6.1类与对象的声明.cpp" />
     <ClCompile Include="1.6.2访问修饰符public与private.cpp" />
     <ClCompile Include="1.6.3访问修饰符protected.cpp" />
+    <ClCompile Include="1.6.4友元.cpp" />
     <ClCompile Include="1.8.0-【析构函数】.c" />
     <ClCompile Include="1.9.0-【const成员与static成员】.c" />
     <ClCompile Include="2.10.0-【拷贝构造】.c" />

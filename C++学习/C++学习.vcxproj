@@ -160,6 +160,7 @@
     <ClCompile Include="1.4.3引用做参数.cpp" />
     <ClCompile Include="1.4.4交换两个变量的值.cpp" />
     <ClCompile Include="1.4.5引用与返回值.cpp" />
+    <ClCompile Include="1.4.6增强的for循环.cpp" />
     <ClCompile Include="1.5.0-【C++函数特性】.c" />
     <ClCompile Include="1.6.0-【类的声明基础】.c" />
     <ClCompile Include="1.8.0-【析构函数】.c" />

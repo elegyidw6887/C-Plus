@@ -123,6 +123,9 @@
     <ClCompile Include="1.5.4文件操作中预防头文件重复包含.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.6.1类与对象的声明.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

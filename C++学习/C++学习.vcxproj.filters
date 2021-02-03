@@ -156,6 +156,9 @@
     <ClCompile Include="1.8.1析构函数.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.8.2析构函数delete和临时对象.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

@@ -138,6 +138,9 @@
     <ClCompile Include="1.7.1构造函数.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.7.2构造函数的类型.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

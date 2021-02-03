@@ -153,6 +153,9 @@
     <ClCompile Include="1.7.6数组和结构体使用初始化列表.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.8.1析构函数.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

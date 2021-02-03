@@ -174,6 +174,7 @@
     <ClCompile Include="1.7.1构造函数.cpp" />
     <ClCompile Include="1.7.2构造函数的类型.cpp" />
     <ClCompile Include="1.7.3初始化与赋值的区别.cpp" />
+    <ClCompile Include="1.7.4初始化列表.cpp" />
     <ClCompile Include="1.8.0-【析构函数】.c" />
     <ClCompile Include="1.9.0-【const成员与static成员】.c" />
     <ClCompile Include="2.10.0-【拷贝构造】.c" />

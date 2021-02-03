@@ -141,6 +141,9 @@
     <ClCompile Include="1.7.2构造函数的类型.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.7.3初始化与赋值的区别.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

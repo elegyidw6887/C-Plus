@@ -180,6 +180,9 @@
     <ClCompile Include="2.10.2默认拷贝构造.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.10.3深拷贝.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

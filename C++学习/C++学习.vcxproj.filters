@@ -171,6 +171,9 @@
     <ClCompile Include="1.9.2静态成员使用方法.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.9.3非循环实现变量递增.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

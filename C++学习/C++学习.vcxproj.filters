@@ -186,6 +186,9 @@
     <ClCompile Include="2.11.1内联函数基础.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.11.2内联函数与类.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

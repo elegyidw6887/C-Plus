@@ -165,6 +165,9 @@
     <ClCompile Include="1.8.4this指针.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="1.9.1常函数.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">

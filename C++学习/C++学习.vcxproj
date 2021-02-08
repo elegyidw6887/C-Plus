@@ -188,6 +188,7 @@
     <ClCompile Include="1.9.3非循环实现变量递增.cpp" />
     <ClCompile Include="2.10.0-【拷贝构造】.c" />
     <ClCompile Include="2.10.1拷贝构造的调用情况.cpp" />
+    <ClCompile Include="2.10.2默认拷贝构造.cpp" />
     <ClCompile Include="2.11.0-【内联函数】.c" />
     <ClCompile Include="2.12.0-【运算符重载operator】.c" />
     <ClCompile Include="2.13.0-【继承】.c" />
